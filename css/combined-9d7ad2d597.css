@@ -1076,7 +1076,7 @@ header .main ul li a:active{
     -webkit-filter:grayscale(100%);
     width:20%;
     height:35px;
-    background:url(file:///G|/responsiveWeb/src/img/logo@1x.png) no-repeat;
+    background:url(img/logo@1x.png) no-repeat;
     background-size:150px 35px;
 }
 .footer-content ul{
